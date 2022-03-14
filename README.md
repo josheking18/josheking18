@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy José Ceballos</h1>
+<h3 align="center">Un desarrollador frontend apasionado de Chile</h3>
 
-<!--
-**josheking18/josheking18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=josheking18" alt="josheking18" / ></a> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://fb.com/jose ignacio ceballos espinoza " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg " alt="jose ignacio ceballos espinoza" height="30" width="40" /></a>
+<a href="https://instagram.com/joshe_ignacioce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="joshe_ignacioce" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Idiomas y Herramientas:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" ancho="40" altura="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </ a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en- US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> < a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/ python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>/a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height= "40"/> </a> </p>/a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height= "40"/> </a> </p>githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https:// www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt= "pitón" ancho="40" altura="40"/> </a> </p>githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https:// www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt= "pitón" ancho="40" altura="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
+
